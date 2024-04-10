@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Dylan_McMullen_COMP304_Lab3</string>
+    <string name="welcome_to_the_app">Welcome to the App</string>
+    <string name="add_a_student">Add a Student</string>
+    <string name="add_a_test">Add a test</string>
+    <string name="view_test_information">View Test Information</string>
+    <string name="update_student_info">Update Student Info</string>
+    <string name="teacher_id">Teacher ID</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_student_s_first_name">Student\'s first name</string>
+    <string name="enter_student_s_last_name">Student\'s last name</string>
+    <string name="enter_student_s_class_room_number">Student\'s class room number</string>
+    <string name="add_student">Add Student</string>
+    <string name="test_date">Test Date</string>
+    <string name="test_grade">Test Grade</string>
+    <string name="final_midterm_quiz_etc">Test Type: Final, Midterm, Quiz, etc</string>
+    <string name="submit_test_data">Submit Test Data</string>
+    <string name="update">Update</string>
+    <string name="test_type">Test Type</string>
+    <string name="welcome_teacher">Welcome, Teacher %1$s</string>
+</resources>
